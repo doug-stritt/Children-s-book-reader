@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/IcebergKidsApplication/!svn/ver/23/IcebergKidsApp/Model
+END
+Book.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Book.h
+END
+Frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Frame.h
+END
+AudioTrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/AudioTrack.m
+END
+AudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/IcebergKidsApplication/!svn/ver/23/IcebergKidsApp/Model/AudioManager.h
+END
+Page.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Page.h
+END
+Book.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Book.m
+END
+Frame.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Frame.m
+END
+AudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/IcebergKidsApplication/!svn/ver/23/IcebergKidsApp/Model/AudioManager.m
+END
+Page.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Page.m
+END
+Phrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Phrase.h
+END
+BookInfoConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/BookInfoConstants.h
+END
+AudioTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/AudioTrack.h
+END
+Phrase.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/IcebergKidsApplication/!svn/ver/4/IcebergKidsApp/Model/Phrase.m
+END
